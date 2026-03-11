@@ -48,9 +48,9 @@
 ## Output:
 ### Support Removal
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/09bdc16d-b3b0-4315-87ba-f28d768c30ca" />
-### **UV curing**
+### UV curing
 <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/aab569af-09cb-4606-b1ac-f7d3eaee6df5" />
-### **Heat Treatment**
+### Heat Treatment
 <img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/b479829c-7060-4754-9dd4-1ccc28bf5abf" />
 
 
